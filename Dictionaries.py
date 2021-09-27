@@ -1,4 +1,4 @@
-#Mainīgais dictionaries jeb bibliotēkas; definē ar {}
+ #Mainīgais dictionaries jeb bibliotēkas; definē ar {}
 
 pirmais = {'atsl1':'vērt1', 'atsl2':'vērt2'}
 print(pirmais)

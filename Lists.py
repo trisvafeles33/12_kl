@@ -1,4 +1,4 @@
-#Mainīgais saraksts; definē ar []
+ #Mainīgais saraksts; definē ar []
 
 my_list = [1,2,3]
 print(my_list)
