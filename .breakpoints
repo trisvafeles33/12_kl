@@ -1,5 +1,21 @@
 {
   "files": {
+    "11.01./galvenais.py": [
+      {
+        "id": "5ee9d15e-d6ab-44bb-bd23-7b80fb1390d7",
+        "line": 2,
+        "version": 1,
+        "index": 13
+      }
+    ],
+    "11.01./otrais.py": [
+      {
+        "id": "4581b1b8-3f8b-4cfd-93a5-7b19a2ea2bf2",
+        "line": 3,
+        "version": 105,
+        "index": 15
+      }
+    ],
     "Darbs uz procentiem2.py": [
       {
         "id": "24b749d2-c005-4bf4-9c9f-ddd134370685",

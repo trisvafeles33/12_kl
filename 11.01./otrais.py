@@ -1,0 +1,3 @@
+import otrais
+
+otrais.abc()
