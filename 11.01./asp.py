@@ -2,12 +2,12 @@ import random
 
 while True:
   print("Akmens, šķēres, papīrīts - aiziet.")
-  iveele = input("Izvēlies - akmens(A), šķēres(S) vai papīrs(P):")
-  print("Tu izvēlējies" + izveele)
+  izveele = input("Izvēlies - akmens(A), šķēres(S) vai papīrs(P):")
+  print("Tu izvēlējies " + izveele)
 
   defizveeles = ['A','S','P']
   pretizveele = random.choice(defizveeles)
-  print("Es izvēlējos" + pretizveele)
+  print("Es izvēlējos " + pretizveele)
 
   if pretizveele == izveele:
     print("Neizšķirts.")
